@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mores\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|c:\\users\\mores\\pong\\assets\\scripts\\savecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|c:\\users\\mores\\pong\\assets\\scripts\\resetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\player2paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player2paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\imputfild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\imputfild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\colorselectionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorselectionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\mores\\Pong\\assets\\scripts\\enemypaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemypaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetData.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\ResetData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetData.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\ResetData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T21:31:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T21:06:15.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T20:32:23.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImputFild.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\ImputFild.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImputFild.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\ImputFild.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImputFild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T20:30:23.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player2PaddleController.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\Player2PaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player2PaddleController.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\Player2PaddleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player2PaddleController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:11:04.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyPaddleController.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\EnemyPaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPaddleController.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\EnemyPaddleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyPaddleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:10:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerPaddleController.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\PlayerPaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPaddleController.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\PlayerPaddleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPaddleController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:53:48.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveController.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\SaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveController.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\SaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:46:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorSelectionButton.cs",
+              "DocumentMoniker": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\ColorSelectionButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorSelectionButton.cs",
+              "ToolTip": "C:\\Users\\mores\\Pong\\Assets\\Scripts\\ColorSelectionButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorSelectionButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:20:21.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
